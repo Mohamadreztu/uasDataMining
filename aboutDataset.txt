@@ -1,0 +1,8 @@
+CustomerId-mengandung nilai acak dan tidak berpengaruh pada nasabah yang meninggalkan bank.
+Jenis kelamin-menarik untuk mengeksplorasi apakah jenis kelamin memainkan peran dalam nasabah meninggalkan bank
+Usia-ini tentu saja relevan, karena nasabah yang lebih tua cenderung tidak meninggalkan bank mereka daripada yang lebih muda.
+Saldo-juga merupakan indikator yang sangat baik untuk mengetahui perputaran nasabah, karena orang dengan saldo yang lebih tinggi di rekening mereka cenderung tidak akan meninggalkan bank dibandingkan dengan mereka yang memiliki saldo yang lebih rendah.
+Skor Kredit-dapat berpengaruh pada churn nasabah, karena nasabah dengan skor kredit yang lebih tinggi lebih kecil kemungkinannya untuk meninggalkan bank.
+Geografi-lokasi nasabah dapat mempengaruhi keputusan mereka untuk meninggalkan bank.
+
+Link Dataset:https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
